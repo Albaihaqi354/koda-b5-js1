@@ -6,15 +6,16 @@ const obj = {
                 0,
                 1,
                 2,
-                  { koda: [
-                    {
-                    tech: {
-                        academy: "Koda camp Academy"
+                    { 
+                        koda: [
+                            {
+                                tech: {
+                                    academy: "Koda camp Academy"
+                                }
+                            }
+                        ]
                     }
-                    }
-                    ]
-                    }
-            ]
+                ]
             ]
     ]
 }
